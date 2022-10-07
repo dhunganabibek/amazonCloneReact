@@ -1,2 +1,3 @@
-# amazonCloneReact
-Using react to make amazon clone.
+# This is amazon clone project using react.
+
+# use FireBase for authentication.
